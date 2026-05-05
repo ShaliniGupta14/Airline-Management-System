@@ -37,4 +37,4 @@ python Login.py
 
 ---
 
-Built as a university project demonstrating GUI development, database integration, and booking system design.
+Built as a high school final project demonstrating GUI development, database integration, and booking system design.
